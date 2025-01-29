@@ -11,7 +11,7 @@ function validatePassword (password) {
 }  
 
 console.log(validatePassword(10000000));
-console.log(validatePassword(00000000));
+// console.log(validatePassword(00000000));
 console.log(validatePassword(98736478));
 console.log(validatePassword(98765892));
 console.log(validatePassword(987692));
